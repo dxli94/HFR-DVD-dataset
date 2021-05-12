@@ -1,6 +1,6 @@
 # HFR Dataset
 
-Dataset proposed in "ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring", CVPR 2020.
+Dataset proposed in "ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring", CVPR 2021.
 
 
 ### Download
